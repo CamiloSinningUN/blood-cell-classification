@@ -6,6 +6,8 @@ This project was developed as part of the *Advanced Neural Networks and Deep Lea
 ## Dataset
 The dataset consists of **13,759** RGB images (96x96 pixels) of eight types of blood cells. The distribution of classes is highly imbalanced, which necessitated careful preprocessing and augmentation.
 
+![download](https://github.com/user-attachments/assets/1bd939d4-7474-4d15-8f1e-b9f9adecd7f3)
+
 ## Methodology
 
 ### Data Preprocessing
